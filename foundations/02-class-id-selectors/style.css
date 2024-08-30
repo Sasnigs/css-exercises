@@ -1,0 +1,17 @@
+.odd-no{
+    background-color: #FFCCCB;
+    font-family: Verdana, "DejaVu Sans", sans-serif;
+}
+#no-2{
+    color: blue;
+    font-size: 36px;
+}
+#no-4{
+    font-size: 24px;
+    font-weight: bold;
+    background-color: lightgreen;
+}
+
+.size{
+    font-size: 24px;
+}
